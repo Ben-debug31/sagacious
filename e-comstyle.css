@@ -1,0 +1,16 @@
+Body{
+    background-color:white;
+}
+h3{
+font-family: arial; color:lightslategray; text-shadow: 2px 1px black; text-align: center;
+}
+p.top{
+font-family:sans-serif; 
+}
+img{
+    width:80px; height:80px; margin-top:-218px; border-radius:25px; 
+    position: absolute; padding-left:533px;
+}
+button{
+ display:block;
+}
